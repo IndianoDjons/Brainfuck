@@ -28,9 +28,6 @@ function App() {
 
 
 
-            {/*<Todolist title="Songs"/>*/}
-
-
             {/*<input type="checkbox"/>*/}
             <input type="date"/>
             <input placeholder="it-incubator"/>
